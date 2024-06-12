@@ -1,0 +1,2 @@
+gcc -shared -o cryptography_lib.so -c cryptography_lib.c
+gcc "file name" cryptography_lib.so -fexec-charset=cp932
